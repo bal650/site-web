@@ -1,0 +1,22 @@
+// component.scss
+
+.component {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.component__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.component__description {
+  font-size: 1rem;
+  color: #666;
+}
