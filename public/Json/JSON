@@ -1,0 +1,45 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.settings.editor": "json",
+  "editor.suggestSelection": "first",
+  "Sync.autoDownload": true,
+  "livereload.applyCSSLive": false,
+  "livereload.ApplyJavaScriptLive": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "json.trace.server": "messages",
+  "workbench.settings.useSplitJSON": true,
+  "extensions.autoUpdates": "onlyEnabledExtensions",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.productIconTheme": "none",
+  "diffEditor.renderSideBySide": false,
+  "files.AutoSave": "afterDelay",
+  "diffEditor.wordWrap": "on",
+  "vsicons.presets.jsOfficial": true,
+  "vsicons.presets.jsonOfficial": true,
+  "vsicons.presets.nestjs": true,
+  "vsicons.presets.tsOfficial": true,
+  "prettier.bracketSpacing": false,
+  "prettier.bracketSameLine": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": "min.css",
+      "savePath": "~/../css"
+    }
+  ],
+  "liveSaasCompile.settings.autoprefix": null,
+  "debug.disassembly": "false",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "window.newWindowProfile": "Par défaut",
+  "liveServer.settings.donotVerifyTags": true,
+  "settingsSync.ignoredExtensions": ["glenn2223.live-sass"],
+  "files.autoSave": "afterDelay"
+}
